@@ -1,0 +1,17 @@
+{
+  "uuid": "0d0d4344-0088-4fbc-ad9b-b9a40e322a5e",
+  "shortName": "maze_0",
+  "longName": "maze_0",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
