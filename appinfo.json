@@ -2,7 +2,7 @@
   "uuid": "0d0d4344-0088-4fbc-ad9b-b9a40e322a5e",
   "shortName": "maze_0",
   "longName": "maze_0",
-  "companyName": "MakeAwesomeHappen",
+  "companyName": "Nikhil Lele",
   "versionCode": 1,
   "versionLabel": "1.0.0",
   "watchapp": {
@@ -12,6 +12,12 @@
     "dummy": 0
   },
   "resources": {
-    "media": []
+    "media": [
+      {
+          "type": "png",
+          "name": "BOX",
+          "file": "images/box.png"
+      }
+    ]
   }
 }
